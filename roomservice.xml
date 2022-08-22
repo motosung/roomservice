@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="ssh://git@github.com/" name="github_ssh" />
-  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github_ssh" revision="lineage-19.1" />
+  <project name="motosung/proprietary_vendor_motorola" path="vendor/motorola" remote="github_ssh" revision="lineage-19.1" />
   <project name="motosung/android_vendor_extra" path="vendor/extra" remote="github_ssh" revision="lineage-19.1" />
   <project name="motosung/android_device_motorola_kane" path="device/motorola/kane" remote="github" revision="lineage-19.1" />
   <project name="motosung/android_device_motorola_troika" path="device/motorola/troika" remote="github" revision="lineage-19.1" />
